@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SC-Showcases/static/css/main.bab0b925.chunk.css",
+    "main.js": "/SC-Showcases/static/js/main.b496baba.chunk.js",
+    "main.js.map": "/SC-Showcases/static/js/main.b496baba.chunk.js.map",
+    "runtime-main.js": "/SC-Showcases/static/js/runtime-main.f86125e6.js",
+    "runtime-main.js.map": "/SC-Showcases/static/js/runtime-main.f86125e6.js.map",
+    "static/js/2.5c5fbdbf.chunk.js": "/SC-Showcases/static/js/2.5c5fbdbf.chunk.js",
+    "static/js/2.5c5fbdbf.chunk.js.map": "/SC-Showcases/static/js/2.5c5fbdbf.chunk.js.map",
+    "static/js/3.ff4076a1.chunk.js": "/SC-Showcases/static/js/3.ff4076a1.chunk.js",
+    "static/js/3.ff4076a1.chunk.js.map": "/SC-Showcases/static/js/3.ff4076a1.chunk.js.map",
+    "index.html": "/SC-Showcases/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/SC-Showcases/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.5c5fbdbf.chunk.js.LICENSE.txt": "/SC-Showcases/static/js/2.5c5fbdbf.chunk.js.LICENSE.txt",
+    "static/media/thumbnail_Jinx.c7bbb004.jpeg": "/SC-Showcases/static/media/thumbnail_Jinx.c7bbb004.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f86125e6.js",
+    "static/js/2.5c5fbdbf.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.b496baba.chunk.js"
+  ]
+}

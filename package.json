@@ -2,7 +2,7 @@
   "name": "sc-showcases",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Vining44.github.io/SC-Showcases",
+  "homepage": "https://scshowcases.com",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",

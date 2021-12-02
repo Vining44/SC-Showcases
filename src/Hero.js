@@ -1,9 +1,10 @@
-import Picture from './thumbnail_Jinx.jpeg';
+import Picture from './clinicimage.svg';
+
 
 const Hero = () => {
     return(
         <>
-            <img src={Picture} className="Jinx" />
+            <img src={Picture}/>
         </>
     );
 };

@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/SC-Showcases/static/css/main.bab0b925.chunk.css",
-    "main.js": "/SC-Showcases/static/js/main.b496baba.chunk.js",
-    "main.js.map": "/SC-Showcases/static/js/main.b496baba.chunk.js.map",
-    "runtime-main.js": "/SC-Showcases/static/js/runtime-main.f86125e6.js",
-    "runtime-main.js.map": "/SC-Showcases/static/js/runtime-main.f86125e6.js.map",
-    "static/js/2.5c5fbdbf.chunk.js": "/SC-Showcases/static/js/2.5c5fbdbf.chunk.js",
-    "static/js/2.5c5fbdbf.chunk.js.map": "/SC-Showcases/static/js/2.5c5fbdbf.chunk.js.map",
-    "static/js/3.ff4076a1.chunk.js": "/SC-Showcases/static/js/3.ff4076a1.chunk.js",
-    "static/js/3.ff4076a1.chunk.js.map": "/SC-Showcases/static/js/3.ff4076a1.chunk.js.map",
-    "index.html": "/SC-Showcases/index.html",
-    "static/css/main.bab0b925.chunk.css.map": "/SC-Showcases/static/css/main.bab0b925.chunk.css.map",
-    "static/js/2.5c5fbdbf.chunk.js.LICENSE.txt": "/SC-Showcases/static/js/2.5c5fbdbf.chunk.js.LICENSE.txt",
-    "static/media/thumbnail_Jinx.c7bbb004.jpeg": "/SC-Showcases/static/media/thumbnail_Jinx.c7bbb004.jpeg"
+    "main.css": "/static/css/main.8b049b9b.chunk.css",
+    "main.js": "/static/js/main.968d4f62.chunk.js",
+    "main.js.map": "/static/js/main.968d4f62.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cecee462.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cecee462.js.map",
+    "static/js/2.699b336b.chunk.js": "/static/js/2.699b336b.chunk.js",
+    "static/js/2.699b336b.chunk.js.map": "/static/js/2.699b336b.chunk.js.map",
+    "static/js/3.ff4076a1.chunk.js": "/static/js/3.ff4076a1.chunk.js",
+    "static/js/3.ff4076a1.chunk.js.map": "/static/js/3.ff4076a1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8b049b9b.chunk.css.map": "/static/css/main.8b049b9b.chunk.css.map",
+    "static/js/2.699b336b.chunk.js.LICENSE.txt": "/static/js/2.699b336b.chunk.js.LICENSE.txt",
+    "static/media/clinicimage.ed47dd40.svg": "/static/media/clinicimage.ed47dd40.svg",
+    "static/media/clinicimagethree.0aedbba3.svg": "/static/media/clinicimagethree.0aedbba3.svg",
+    "static/media/clinicimagetwo.50fc9588.svg": "/static/media/clinicimagetwo.50fc9588.svg",
+    "static/media/clinicpic.bc1bbdc3.svg": "/static/media/clinicpic.bc1bbdc3.svg",
+    "static/media/jinx.b18c854e.svg": "/static/media/jinx.b18c854e.svg",
+    "static/media/sc-logo.22176218.svg": "/static/media/sc-logo.22176218.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f86125e6.js",
-    "static/js/2.5c5fbdbf.chunk.js",
-    "static/css/main.bab0b925.chunk.css",
-    "static/js/main.b496baba.chunk.js"
+    "static/js/runtime-main.cecee462.js",
+    "static/js/2.699b336b.chunk.js",
+    "static/css/main.8b049b9b.chunk.css",
+    "static/js/main.968d4f62.chunk.js"
   ]
 }

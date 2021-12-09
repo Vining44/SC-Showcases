@@ -1,9 +1,9 @@
 import React from "react";
 
-
 const TopNav = () => {
     return(
         <>
+            
             <div className="top-nav">
                 <a className="Home" href="./Home">Home</a>
                 <a className="About" href="./AboutUs">About Us</a>
